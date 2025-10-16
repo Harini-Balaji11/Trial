@@ -1,0 +1,61 @@
+{
+  "updated_at": "2025-01-14T12:00:00Z",
+  "themes": [
+    {
+      "id": 1,
+      "name": "Customer Service & Support",
+      "summary": "Tweets discussing customer service experiences, support interactions, and help desk communications with Walmart staff.",
+      "tweet_count": 1250,
+      "keywords": ["customer service", "support", "help", "staff", "assistance", "complaint", "resolution"]
+    },
+    {
+      "id": 2,
+      "name": "Shopping Experience & Store Operations",
+      "summary": "General shopping experiences, store layout, product availability, and in-store operations at Walmart locations.",
+      "tweet_count": 980,
+      "keywords": ["shopping", "store", "products", "availability", "layout", "experience", "visit"]
+    },
+    {
+      "id": 3,
+      "name": "Pricing & Deals",
+      "summary": "Discussions about Walmart's pricing, sales, discounts, deals, and value propositions for customers.",
+      "tweet_count": 875,
+      "keywords": ["price", "deal", "sale", "discount", "cheap", "affordable", "value", "cost"]
+    },
+    {
+      "id": 4,
+      "name": "Delivery & Online Shopping",
+      "summary": "Online shopping experiences, delivery services, pickup options, and e-commerce platform usage.",
+      "tweet_count": 720,
+      "keywords": ["delivery", "online", "pickup", "shipping", "order", "website", "app", "ecommerce"]
+    },
+    {
+      "id": 5,
+      "name": "Product Quality & Returns",
+      "summary": "Product quality discussions, return policies, refunds, and product satisfaction experiences.",
+      "tweet_count": 650,
+      "keywords": ["quality", "return", "refund", "defective", "broken", "satisfaction", "warranty"]
+    },
+    {
+      "id": 6,
+      "name": "Mobile App & Technology",
+      "summary": "Walmart mobile app experiences, website functionality, and technology-related interactions.",
+      "tweet_count": 420,
+      "keywords": ["app", "mobile", "website", "technology", "digital", "interface", "bug", "glitch"]
+    },
+    {
+      "id": 7,
+      "name": "Store Locations & Accessibility",
+      "summary": "Store location discussions, accessibility features, parking, and physical store access.",
+      "tweet_count": 380,
+      "keywords": ["location", "parking", "accessibility", "nearby", "distance", "convenient", "store hours"]
+    },
+    {
+      "id": 8,
+      "name": "Employee & Staff Interactions",
+      "summary": "Interactions with Walmart employees, staff behavior, and workplace-related discussions.",
+      "tweet_count": 320,
+      "keywords": ["employee", "staff", "worker", "cashier", "manager", "friendly", "rude", "helpful"]
+    }
+  ]
+}
